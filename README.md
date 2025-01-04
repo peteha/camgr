@@ -1,6 +1,7 @@
 # camgr
 
 Python script to create new certificates for local CA using OpenSSL.
+Script allows for the creation of SANs for hosts.
 
 Run with:
 `python certnew.py`
