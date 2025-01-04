@@ -2,6 +2,8 @@
 
 Python script to create new certificates for local CA using OpenSSL.
 
+Run with:
+`python certnew.py`
 
 Environment File is needed.  Example:
 ```aiignore
